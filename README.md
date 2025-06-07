@@ -26,7 +26,7 @@ A simple web application that displays random articles from Russian Wikipedia. U
 
 ## Live Demo
 
-[Add your GitHub Pages URL here after deployment]
+https://alan3210.github.io/wiki-random-viewer/
 
 ## License
 
